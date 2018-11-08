@@ -1,0 +1,177 @@
+#bg{
+	width: 100%;
+	height: 450px;
+}
+
+
+#header{
+	position: relative;
+}
+#logo{
+	position: absolute;
+	top:30px;
+	left: 150px;
+
+}
+#logo img{
+	width:23%; 
+	height:35px;
+}
+#navbar ul{
+	position: absolute;
+	top: 20px;
+	right: 80px;
+	list-style-type: none;
+	}
+
+#navbar ul li{
+	float: left;
+	padding-right: 35px;
+
+	}	
+
+#navbar ul li a{
+	color: gray;
+    }
+h1{ 
+	position: absolute;
+	bottom: 50%;
+	left: 33%;
+	color: white;
+	font-size: 28px;
+	text-align: center;
+	font-family: 'Roboto', sans-serif;
+}
+#buttons ul{
+	position: absolute;
+	color: white;
+	top:210px;
+	left: 34.8%;
+	list-style-type: none;
+}
+
+#buttons ul li{
+
+	float: left;
+	margin: 20px;
+	font-family: 'Open Sans', sans-serif;
+	border-radius: 7px;
+	padding: 9px;
+
+}
+a{
+	color: white;
+	text-decoration: none;
+}
+#solicita a{
+	color: black;
+	text-decoration: none;
+}
+#comienza{
+	background-color: rgb(48, 125, 171);
+}
+#info{
+	background-color: rgb(48, 125,76);
+}
+#buttons p{
+	position: absolute;
+	bottom: 90px;
+	left: 20%;
+	color: white;
+	text-align: center;
+	font-size: 18px;
+}
+h2{
+	font-family: 'PT Sans', sans-serif;
+	margin-top: 40px;
+	text-align: center;
+}
+#section_1 p{
+	font-size: 95%;
+	text-align: center;
+	width: 58%;
+	margin-left: 21.1%;
+
+}
+#section_1 img{
+
+	width: 35%;
+	height: 330px;
+	margin-left: 35%;
+	margin-bottom: -5px;
+}
+
+
+#solicita{
+	width: 100%;
+	height: 280px;
+	border-top: solid 3px #DED8D1;
+	border-bottom: solid 3px #DED8D1;
+	background-color: #E7DFD8; 
+
+	
+}
+button{
+	margin-left: 45%;
+	background-color: #008CBA;
+	font-size: 25px;
+	border-radius: 13px;
+	padding: 12px;
+	color: white;
+	border:none;
+}
+#solicita h3, p {
+	text-align: center;
+}
+#solicita p{
+	font-size: 90%;
+}
+#contacto{
+	float: left;
+	padding-left:23%;
+	padding-top: 0;
+	margin-top: 0;
+
+}
+#contacto p{
+	text-align: left;
+	font-size: 90%;
+	font-family: 'Roboto', sans-serif;
+}
+#contacto a{
+	color: #008CBA;
+	text-decoration: none;
+}
+#suscribete{
+	width: 40%;
+	float: left;
+	padding-left: 10%;
+	font-family: 'Roboto', sans-serif;
+}
+#suscribete p{
+	text-align: left;
+}
+input[type=text] {
+	width: 40%;
+	padding: 12px 15px;
+	border-radius: 6px;
+	
+}
+input[type=submit] {
+	width: 20%;
+	
+}
+#lorem{
+	font-size: 70%;
+}
+#footer{
+	float: left;
+	margin-top: 40px;
+	width: 100%;
+	height: 50px;
+	background-color: black;
+	color: white;
+	text-align: center;
+	font-family: 'PT Sans', sans-serif;
+	padding-bottom: 5px; 
+    a}
